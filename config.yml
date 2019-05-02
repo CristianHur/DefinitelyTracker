@@ -1,0 +1,8 @@
+Item: COMPASS
+ItemData: 0
+TAG: "&7[&5DefinitelyTracker&7]"
+Distance: 200
+NoPlayersNearby: "&cThere are not players nearby"
+Message: "&6The player &a%player% &6is &a%distance% &6blocks from you."
+NoPermission: "&cYou are not allowed to do this."
+Reload: "&eDefinitelyTrackers reloaded."

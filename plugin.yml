@@ -1,0 +1,23 @@
+name: DefinitelyTracker
+author: Dequei
+version: 1.0
+main: dev.dequei.playertrackercompass.DefinitelyTracker
+
+
+commands:
+  dt:
+    description: Main command of DeinitelyTracker
+    usage: /dt
+    permission: dt.help
+  DeinitelyTracker:
+    description: Main command of DeinitelyTracker
+    usage: /dt
+    permission: dt.help
+  dt reload:
+    description: Reload DeinitelyTracker
+    usage: /dt reload
+    permission: dt.reload
+  definitelytracker reload:
+    description: Reload DeinitelyTracker
+    usage: /dt reload
+    permission: dt.reload
